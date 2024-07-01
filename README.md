@@ -1,4 +1,6 @@
-# 📝 Información técnica
+# 📝 Análisis de Participación Electoral Elecciones Presidenciales a Nivel Nacional 1983-2023
+
+# Información técnica
 Este análisis se propuso observar la participación electoral en las Elecciones Presidenciales a Nivel Nacional desde el regreso de la Democracia hasta la actualidad. Para eso se trabajo con listas y la biblioteca Matplotlib.
 
 # Conclusiones
