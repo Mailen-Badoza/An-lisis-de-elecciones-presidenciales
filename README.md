@@ -1,5 +1,5 @@
-# 📝 Información
-Este análisis se propuso observar la participación electoral en las Elecciones Presidenciales a Nivel Nacional desde el regreso de la Democracia hasta la actualidad. Para eso se trabajo con listas y la biblioteca Matplotlib
+# 📝 Información técnica
+Este análisis se propuso observar la participación electoral en las Elecciones Presidenciales a Nivel Nacional desde el regreso de la Democracia hasta la actualidad. Para eso se trabajo con listas y la biblioteca Matplotlib.
 
 # Conclusiones
 Algunas de las conclusiones fueron las siguientes:
