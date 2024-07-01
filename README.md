@@ -9,5 +9,3 @@ Algunas de las conclusiones fueron las siguientes:
 
  ![image](https://github.com/Mailen-Badoza/Analisis-de-elecciones-presidenciales/assets/145297121/7bec6694-1793-43b3-ae34-2c84030d0432)
 
-
-
